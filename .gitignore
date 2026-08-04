@@ -21,3 +21,9 @@ model_champion/
 
 # Variables de entorno
 .env
+
+# Artefactos temporales del entrenamiento
+artifacts_encoders/
+
+# Baseline generado
+data/baseline_reference.csv
